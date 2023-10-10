@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/scubass/htmx-todo/db"
+	"github.com/scubass/htmx-golang-crud/db"
 )
 
 func main() {

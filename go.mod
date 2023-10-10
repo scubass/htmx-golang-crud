@@ -1,4 +1,4 @@
-module github.com/scubass/htmx-todo
+module github.com/scubass/htmx-golang-crud
 
 go 1.20
 
